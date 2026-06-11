@@ -68,15 +68,15 @@ function Footer({ setProductFilter, setQuoteModalOpen }) {
             <h4 className="footer-col-title">Contact Ribda HQ</h4>
             <div className="footer-contact-item">
               <MapPin className="footer-contact-icon" />
-              <span>Umiya Industrial Zone-2, Opp Umiya Steel, National Highway 27, At Ribda, Rajkot - 360311, Gujarat, India</span>
+              <span>Plot No. 13, Shree Umiya Ind. Zone-2, Opp. Umiya Steel, N.H./27, At. Ribda, Ta. Gondal, Dist. Rajkot - 360311, Gujarat - INDIA</span>
             </div>
             <div className="footer-contact-item">
               <Phone className="footer-contact-icon" />
-              <span>+91 94267 32792<br />+91 74909 43857</span>
+              <span><strong>Hitesh Depani:</strong><br />+91 94267 32792<br />+91 90549 73285</span>
             </div>
             <div className="footer-contact-item">
               <Mail className="footer-contact-icon" />
-              <span>marutirubber@gmail.com</span>
+              <span>marutiengineeringworks7@gmail.com</span>
             </div>
           </div>
         </div>

@@ -63,7 +63,7 @@ function QuoteWizard({
               <div className="form-group">
                 <label className="form-label">Elastomer Base Compound</label>
                 <div className="material-radio-grid">
-                  {['EPDM', 'Nitrile (NBR)', 'Viton (FKM)', 'Silicone (VMQ)', 'Neoprene (CR)', 'Natural Rubber'].map((mat) => (
+                  {['Natural Rubber', 'Nitrile Rubber', 'EPDM Rubber', 'Silicon Rubber', 'Neoprint Rubber', 'Viton (FKM)'].map((mat) => (
                     <div
                       key={mat}
                       className={`material-radio-card ${quoteForm.material === mat ? 'active' : ''}`}

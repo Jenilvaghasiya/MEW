@@ -364,7 +364,7 @@ function Products({
                       ? selectedProduct.specs['Elastomer Range'].split(', ').map((mat) => (
                           <span className="material-tag" key={mat}>{mat}</span>
                         ))
-                      : ['Viton', 'Nitrile (NBR)', 'EPDM', 'Silicone'].map((mat) => (
+                      : ['Viton (FKM)', 'Nitrile Rubber', 'EPDM Rubber', 'Silicon Rubber', 'Neoprint Rubber', 'Natural Rubber'].map((mat) => (
                           <span className="material-tag" key={mat}>{mat}</span>
                         ))
                     }

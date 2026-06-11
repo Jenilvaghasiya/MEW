@@ -1,6 +1,15 @@
 const MATERIAL_PROPERTIES = {
+  natural: {
+    name: 'Natural Rubber',
+    temp: '-50°C to 80°C',
+    oil: 15,
+    tensile: 95,
+    tempBar: 30,
+    elongation: 98,
+    compSet: 85
+  },
   nitrile: {
-    name: 'Nitrile (NBR)',
+    name: 'Nitrile Rubber',
     temp: '-30°C to 110°C',
     oil: 95,
     tensile: 85,
@@ -9,7 +18,7 @@ const MATERIAL_PROPERTIES = {
     compSet: 80
   },
   epdm: {
-    name: 'EPDM',
+    name: 'EPDM Rubber',
     temp: '-50°C to 150°C',
     oil: 20,
     tensile: 80,
@@ -27,7 +36,7 @@ const MATERIAL_PROPERTIES = {
     compSet: 92
   },
   silicone: {
-    name: 'Silicone (VMQ)',
+    name: 'Silicon Rubber',
     temp: '-60°C to 250°C',
     oil: 35,
     tensile: 55,
@@ -36,7 +45,7 @@ const MATERIAL_PROPERTIES = {
     compSet: 65
   },
   neoprene: {
-    name: 'Neoprene (CR)',
+    name: 'Neoprint Rubber',
     temp: '-40°C to 120°C',
     oil: 70,
     tensile: 88,

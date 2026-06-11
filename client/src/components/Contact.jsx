@@ -129,7 +129,7 @@ function Contact() {
                   </div>
                   <div className="info-text-wrapper">
                     <h4>Factory Address</h4>
-                    <p>Umiya Industrial Zone-2, Opp Umiya Steel, National Highway 27, At Ribda, Rajkot - 360311, Gujarat, India</p>
+                    <p>Plot No. 13, Shree Umiya Ind. Zone-2, Opp. Umiya Steel, N.H./27, At. Ribda, Ta. Gondal, Dist. Rajkot - 360311, Gujarat - INDIA</p>
                   </div>
                 </div>
 
@@ -138,8 +138,8 @@ function Contact() {
                     <Phone size={20} />
                   </div>
                   <div className="info-text-wrapper">
-                    <h4>Direct Engineering Line</h4>
-                    <p>+91 94267 32792<br />+91 74909 43857</p>
+                    <h4>Direct Contact & Engineering Desk</h4>
+                    <p><strong>Hitesh Depani:</strong><br />+91 94267 32792<br />+91 90549 73285</p>
                   </div>
                 </div>
 
@@ -149,7 +149,7 @@ function Contact() {
                   </div>
                   <div className="info-text-wrapper">
                     <h4>Inquiries & RFQs</h4>
-                    <p>marutirubber@gmail.com</p>
+                    <p>marutiengineeringworks7@gmail.com</p>
                   </div>
                 </div>
               </div>
